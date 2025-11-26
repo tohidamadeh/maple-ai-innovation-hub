@@ -11,9 +11,9 @@ const Hero = () => {
         <img 
           src={heroImage} 
           alt="AI Innovation" 
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover opacity-90"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-background via-background/95 to-background/80" />
+        <div className="absolute inset-0 bg-gradient-to-br from-background/40 via-background/50 to-background/60" />
       </div>
 
       {/* Animated Grid Background */}
